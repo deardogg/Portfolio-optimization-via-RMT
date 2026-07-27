@@ -8,3 +8,5 @@ Using the cleaned matrix, we perform Maximum Sharpe Ratio optimization under lon
 SciPy's SLSQP algorithm. Backtesting on unseen out of sample data demonstrates that RMT denoising prevents 
 overfitting, lowers weight instability, and yields a superior risk adjusted return compared to uncleaned 
 sample covariance models.
+
+Futher explanation and improvments given in reportRMT.pdf
