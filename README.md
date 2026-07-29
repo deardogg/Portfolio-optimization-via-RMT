@@ -9,4 +9,4 @@ SciPy's SLSQP algorithm. Backtesting on unseen out of sample data demonstrates t
 overfitting, lowers weight instability, and yields a superior risk adjusted return compared to uncleaned 
 sample covariance models.
 
-Futher explanation and improvments given in reportRMT.pdf
+Futher explanation and improvments given in reportRMT.pdf, all code used given in PortfolioOptimiseViaRMT2.ipynb
