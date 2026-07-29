@@ -2,4 +2,4 @@ This project constructs an optimized quantitative portfolio framework by applyin
 
 Using the cleaned matrix, we perform Maximum Sharpe Ratio optimization under long only constraints using SciPy's SLSQP algorithm. Backtesting on unseen out of sample data demonstrates that RMT denoising prevents overfitting, lowers weight instability, and yields a superior risk adjusted return compared to uncleaned sample covariance models.
 
-Further explanation and improvements are given in [RMTreport.pdf](RMTreport.pdf), and all code used is given in [PortfolioOptimiseViaRMT2.ipynb](PortfolioOptimiseViaRMT2.ipynb).
+Further explanation and improvements are given in [RMTreport.pdf](RMTreport.pdf), and all code used is given in [PortfolioOptimiseViaRMT.ipynb](PortfolioOptimiseViaRMT.ipynb).
